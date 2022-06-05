@@ -1,4 +1,4 @@
-# Arduino-Automatic-Car-Parking-System
+# Automatic-Car-Parking-System
 ### Arduino Project with Tinkercad/ 임베디드시스템 아두이노 프로젝트
 
  
